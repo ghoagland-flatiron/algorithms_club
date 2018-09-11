@@ -1,0 +1,11 @@
+{
+  "name": "algorithms_club",
+  "version": "1.0.0",
+  "description": "Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
