@@ -1,6 +1,19 @@
 # How to approach a technical interview
-## Questions
+## The REACTO approach
+From my time at Grace Hopper/Fullstack, I learned this useful nmeumonic to approach technical interviews.
+For more information, this is their blog post on the topic: https://www.fullstackacademy.com/blog/how-to-ace-a-technical-interview-reacto
+  ```
+  R E A C T O
+  e x p o e p
+  p a p d s t
+  e m r e t i
+  a p o     m
+  t l a     i
+    e c     z
+      h     e
+```
 
+## Questions
 ### Coconuts
 You are stuck on a desert island and for some inscrutable reason your survival depends on figuring out which one of 9 otherwise identical coconuts is heavier than the others. You didn't bring your bathroom scale because... you're stuck there, it's not really a choice. But you have some planks and a rock and have made a balance scales. What is the mimimum number of times you need to weigh the coconuts to be certain which is the odd one out - the sun is so hot and you really need this heavy coconut.  
 
