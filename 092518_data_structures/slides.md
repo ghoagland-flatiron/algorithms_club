@@ -9,7 +9,7 @@ class: center, middle
 
 A **data structure** is the concrete implementation of an **abstract data type** (ADT).
 
-You may see these terms used fairly interchangeably. An ADT is more high-level description of the data relationship and a description of how that data may operated upon whereas a data structure has more information on how these things are defined and actully implemented.
+You may see these terms used fairly interchangeably. An ADT is more high-level description of the data relationship and a description of how that data may operated upon whereas a data structure has more information on how these things are defined and actually implemented.
 
 ---
 
@@ -129,7 +129,7 @@ A key thing to remember here is that while a node might be the child of one node
  - `breadth_first_list()` * - list the elements level by level. Starting at the root, read the values left to right and then move down to the next level. So the above would return 8, 3, 10, 1, 6, 9, 12, 4, 7, 11.
 
  - `delete_node()` **
- 
+
  - `self.create()` - creates a BST based on an array.
 
 
