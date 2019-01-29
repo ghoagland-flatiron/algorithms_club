@@ -51,7 +51,7 @@ Some methods you should work on:
  - `contains(value)`
  - `length()`
  - `delete(value)`
- - `contains_loop()`* See #algos_n_data_structs for a more complicated version.
+ - `contains_loop()`
  - `clone()`* - copy of each node with pointers to the new copies.
 
 --
