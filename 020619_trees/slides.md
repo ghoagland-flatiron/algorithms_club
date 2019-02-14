@@ -102,3 +102,8 @@ Methods:
  + `get_node(str)` - returns the node after following the string. So in the example, `get_node('te')`this would return the node with children for "tea", "ted", and "ten".
 
  + `insert(word)` - if a string is not present in the trie, add it.
+
+ + `num_words(str)` - returns the number of words that start with a given string
+ 
+ Advanced:
+ + One of the useful applications of tries is that they can be used to predict text. How could you refactor your code so it can track the words that are most commonly searched? Given the first n letters, how likely is any given letter to be next?
