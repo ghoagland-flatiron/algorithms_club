@@ -2,7 +2,8 @@
 ## Questions
 
 1. How many windows are there in New York?
-  This is a classic question designed to see how you handle an abstract question. Think about approaches and discuss how you would communicate your answer to this or a similar question - what is this question actually asking?
+
+  This is a classic question designed to see how you handle abstraction. Think about approaches and discuss how you would communicate your answer to this or a similar question - what is this question actually asking?
 
 2. Write a function that performs a **binary search**.
 
