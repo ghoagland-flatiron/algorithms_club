@@ -28,7 +28,7 @@ In decimal, we can easily use the number to describe how it can be shown as the 
 
 471 = 4 \* 10<sup>2</sup> + 7 \* 10<sup>1</sup> + 1 \* 10<sup>0</sup>
 
-    = 4 \* 100 + 7 \* 10 + 1 \* 1
+    = 4 * 100 + 7 * 10 + 1 * 1
     = 400 + 70 + 1
 
 
@@ -43,6 +43,7 @@ Or 203:
 
 
 ---
+## Converting Binary to Decimal
 
 
 So if we see the binary number 1010, we can convert this to decimal in a similar way.
@@ -64,7 +65,7 @@ Here, we take this same breakdown of the binary `1010` and convert it to decimal
 
 ---
 
-## Converting to binary
+## Converting from Decimal to Binary
 
 So say we now want to convert the number 27 to binary.
 
