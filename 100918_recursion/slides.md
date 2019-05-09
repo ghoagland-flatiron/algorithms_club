@@ -16,14 +16,18 @@ Thanks, [Wikipedia](https://en.wikipedia.org/wiki/Recursion).
 
 # What?
 
-Imagine you are thinking about a function and you see how you can do a piece and then could use the function on a "smaller" piece - this is when you can think about using recursion.
+Imagine you are trying to solve a problem and you realize that having the solution for a "smaller" piece of the problem would help!
+
+In code, we can do this by calling a function inside of its definition.
+
+A recursive function needs at least two cases - one where the function calls itself and one where it does not. A case where the function does not call itself is a _base case_. This is where the function stops calling itself so there won't be an infinite loop. The other type of case, the _recursive case_, is one where the function calls itself in a way that it will eventually lead to the base case. This usually means calling the function with a smaller number or a shorter array - something that, with enough calls, will reach the condition for the base case.
 
 ---
 
 # Fibonacci
 
-The classic example is the Fibonacci sequence where every number is the sum of the previous two. So in order to get the nth value, we need the n-1 and n-2 value. Unless n-1 or n-2 are our base cases of 0 and 1, we can use the function we are writing to generate those values!
-
+The Fibonacci sequence where every number is the sum of the previous two, starting with 0 and 1. In order to get the nth value, we need the n-1 and n-2 value.
+Those words should 
 ---
 
 # Fibonacci continued
